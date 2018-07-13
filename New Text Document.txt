@@ -1,1 +1,2 @@
 ini new doc
+ini tambahan
